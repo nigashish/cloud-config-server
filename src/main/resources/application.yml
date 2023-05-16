@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/nigashish/cloud-config-server
+          uri: https://github.com/nigashish/cloud-configration-server
      
 #eureka:
 #  client:
