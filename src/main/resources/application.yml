@@ -8,6 +8,7 @@ spring:
       server:
         git:
           uri: https://github.com/nigashish/cloud-configration-server
+          #uri: https://github.com/nigashish/visor-cloud-configration-server
           
           
 eureka:
